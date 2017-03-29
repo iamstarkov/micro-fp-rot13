@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "micro": "^7.3.0",
-    "ramda": "^0.23.0"
+    "ramda": "^0.23.0",
+    "rot-13": "^1.0.0"
   }
 }
